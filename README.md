@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pricci60
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning programmazione Arduino WiFi
+- 🌱 I’m currently learning Programming for mobile devices and Arduino WiFi programming
 - 💞️ For the moment I am not collaborating with anyone
 - 📫 You can reach me via email paolo.ricci2003@gmail.com
 - 😄 Pronouns: sig
